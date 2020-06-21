@@ -1,0 +1,3 @@
+(?:0[Xx]|U\+|#)[a-f0-9A-FGgRr]{2,}[Uu]?[Ll]{0,2}\b
+s1.yimg.com/[^"]+"
+tumblr.com/[^"]+"
